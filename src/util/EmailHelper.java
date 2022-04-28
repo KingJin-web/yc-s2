@@ -8,7 +8,7 @@ import java.security.GeneralSecurityException;
 import java.util.Properties;
 
 public class EmailHelper {
-    private final String STMP = "vhsxfwpexsdmjjeg";
+    private final String STMP = "xxxxxxxxxxxxx";
     private final String guilt = "jinpeng.qmail@qq.com";
 
     /**
